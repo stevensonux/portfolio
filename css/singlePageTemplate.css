@@ -49,6 +49,11 @@ header {
 	letter-spacing: 4px;
 }
 
+#moodboard {
+	max-width: 80%;
+	
+}
+
 .navigation {
 	margin-left: 2%;
 	padding: 5px;
