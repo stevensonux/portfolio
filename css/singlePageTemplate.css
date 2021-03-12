@@ -49,9 +49,15 @@ header {
 	letter-spacing: 4px;
 }
 
-#moodboard {
-	max-width: 80%;
-	
+.columns{
+	margin-right: -110%;
+}
+
+.columns img {
+	max-width: 30%;
+	position: relative;
+	float: left;
+	margin-left: 10%;
 }
 
 .navigation {
