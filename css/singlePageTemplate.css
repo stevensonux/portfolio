@@ -49,15 +49,32 @@ header {
 	letter-spacing: 4px;
 }
 
-.columns{
+
+.leftcolumns{
 	margin-right: -110%;
 }
 
-.columns img {
+.leftcolumns img {
 	max-width: 30%;
 	position: relative;
 	float: left;
 	margin-left: 10%;
+}
+
+.rightcolumns{
+	margin-left: -110%;
+}
+
+.rightcolumns img {
+	max-width: 30%;
+	position: relative;
+	float: right;
+	margin-right: 10%;
+}
+
+.centerphoto{
+	max-width:40%;
+	margin-left: 30%; 
 }
 
 .navigation {
